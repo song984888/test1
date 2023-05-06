@@ -1,2 +1,2 @@
 genome wuhCor12
-trackDb wuhCor1/trackDb.txt
+trackDb wuhCor12/trackDb.txt
